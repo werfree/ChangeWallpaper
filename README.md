@@ -1,8 +1,8 @@
 # ChangeWallpaper
 Change mobile wallpaper with a single click.
 
-#API Use
- *Unsplash Wallpaer
+# API Use
+ * Unsplash Wallpaer
 
 Android Project
 * By Sayantan Ghosh
